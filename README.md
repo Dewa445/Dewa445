@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./media/own.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/f381573730b9d5de65109.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">AKARITZU-MD</h1>
 
